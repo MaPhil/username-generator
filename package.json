@@ -1,0 +1,15 @@
+{
+  "name": "username-generator",
+  "version": "0.0.1",
+  "description": "a simple package to create username",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "username",
+    "creator"
+  ],
+  "author": "",
+  "license": "MIT"
+}
