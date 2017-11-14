@@ -10,6 +10,11 @@
     "username",
     "creator"
   ],
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaPhil/username-generator.git"
+  },
+  "homepage": "https://github.com/MaPhil/username-generator#readme",
+  "author": "MaPhil <phil.m.mainz@gmail.com>",
   "license": "MIT"
 }
