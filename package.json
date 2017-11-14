@@ -1,6 +1,6 @@
 {
   "name": "random-username-generator",
-  "version": "0.0.1",
+  "version": "1.0.2",
   "description": "a simple package to create username",
   "main": "index.js",
   "scripts": {
